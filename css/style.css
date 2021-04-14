@@ -1,0 +1,9 @@
+#jumbotron {
+	padding: 20px;
+	margin-left: 20px;
+	margin-right: 100px;
+	color: white;
+}
+body {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejG0mWBiOgDSOz96JKH2SWQNLEDt7Mtl8rA&usqp=CAU);
+}
