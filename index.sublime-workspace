@@ -1,0 +1,218 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"b",
+				"background-attachment\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Projects/Sharethegoodthingsproject/index.php",
+		"/C/xampp/htdocs/Projects/DatabaseClass/index.php",
+		"/C/xampp/htdocs/Projects/DatabaseClass/connection.php",
+		"/C/xampp/htdocs/Projects/public/connectiontwo.php",
+		"/C/xampp/htdocs/Projects/public/modifiers.php",
+		"/C/xampp/htdocs/Projects/public/fileupload.php",
+		"/C/xampp/htdocs/Projects/public/upload.php",
+		"/C/xampp/htdocs/Projects/public/oop.php",
+		"/C/xampp/htdocs/Projects/public/b_session.php",
+		"/C/xampp/htdocs/Projects/public/a_session.php",
+		"/C/xampp/htdocs/Projects/css/style.css",
+		"/C/xampp/htdocs/Projects/public/a.php",
+		"/C/xampp/htdocs/Projects/public/cookie.php",
+		"/C/xampp/htdocs/Projects/public/share.php",
+		"/C/xampp/htdocs/Projects/public/date.php",
+		"/C/xampp/htdocs/Projects/public/regex.php",
+		"/C/xampp/htdocs/Projects/public/superglobals.php",
+		"/C/xampp/htdocs/Projects/form.php",
+		"/C/xampp/htdocs/dashboard/stylesheets/all-rtl.css",
+		"/C/xampp/htdocs/Projects/js/style.js",
+		"/C/Users/hp/Desktop/Aardvark/index.html",
+		"/C/Users/hp/Desktop/Shoppers' Hub/form.html/form.html",
+		"/C/xampp/htdocs/Projects/Practicalsphp/form.php",
+		"/C/xampp/htdocs/favicon.ico",
+		"/C/Users/hp/Desktop/Shoppers' Hub/form.html/css/style.css",
+		"/C/Users/hp/Desktop/Shoppers' Hub/form.html/authentication.html",
+		"/C/Users/hp/Desktop/Shoppers' Hub/form.html/css/mystyle.css",
+		"/C/Users/hp/Desktop/Aardvark/practical.html",
+		"/C/Users/hp/Desktop/Aardvark/style.css",
+		"/C/Users/hp/Desktop/Aardvark/form.html",
+		"/C/Users/hp/Desktop/Aardvark/css/style.css",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/C/Users/hp/Documents/index.html",
+		"/C/Users/hp/Desktop/movie shop 1.PNG",
+		"/C/Users/hp/Desktop/home.css",
+		"/C/Users/hp/Desktop/WANDERLUSTER'S HOME.html",
+		"/C/Users/hp/Desktop/WANDERLUSTS.html",
+		"/C/Users/hp/Desktop/style.css"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\hp\\Desktop\\Aardvark\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
